@@ -5,7 +5,7 @@
 # Tentang saya
 *Hobi: Main game* <br>
 *Alumni: Smk Fatahillah Cileungsi* <br>
-*Keahlian: kob Development* <br>
+*Keahlian: web Development* <br>
 # skill yang dikuasai
 *C++ phyton*
 <a href="https://www.instagram.com/AdithyaaaFauziii_/" target="blank">Kunjungi Instagram Saya</a>
