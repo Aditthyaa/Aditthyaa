@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Aditthyaa/Aditthyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Bagass
+# Halo, saya Bagas Adithya Fauzi 🙌 <br>
+🖥️ Mahasiswa Informatika Universitas Muhamadiyah Surabaya semester  1
+*saya sedang belajar dasar Dasar GIT dan GITHUB, lalu Mengeksplorasi AI & Machine Learning*
+# Tentang saya
+*Hobi: Main game* <br>
+*Alumni: Smk Fatahillah Cileungsi* <br>
+*Keahlian: kob Development* <br>
+# skill yang dikuasai
+*C++ phyton*
+<a href="https://www.instagram.com/AdithyaaaFauziii_/" target="blank">Kunjungi Instagram Saya</a>
